@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Andr Sitnikov Les1</string>
+    <string name="lesson1">Lesson1</string>
+    <string name="enter_text">Enter text</string>
+    <string name="on_off">on/off</string>
+    <string name="check">check</string>
+    <string name="toggle">toggle</string>
+    <string name="btn">btn</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_date">Enter date</string>
+    <string name="enter_uri">Enter Uri</string>
+    <string name="enter_some_number">Enter some number</string>
 </resources>
